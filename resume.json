@@ -1,0 +1,82 @@
+{
+"basics": {
+    "name": "Suyash Pandey",
+    "label": "Student",
+    "picture": "https://raw.githubusercontent.com/Suyash13/jsonfile/main/profilepic.jpeg",
+    "email": "2020kuec2045@iiitkota.ac.in",
+    "phone": "8447471425",
+    "website": "https://github.com/Suyash13",
+    "summary": "Hello Everyone. I am Suyash Pandey, an engineering undergrad currently pursuing Electronics and Communication Engineering at Indian Institute of Information Technology, Kota. I live in Delhi-NCR region. I am a coding enthusiast and have a keen intereset in Web Development. Furthermore, I am an active coder on the well known platform Coderforces. The supreme goal in my life is to become a very successful and an honest man. Technically, I want to become a Software Development Engineer in a Product-based company.",
+    "location": {
+        "address": "Faridabad, Haryana",
+        "postalCode": "121003",
+        "city": "Faridabad",
+        "countryCode": "India",
+        "region": "Delhi NCR"
+    },
+    "profiles": [
+        {
+            "network": "Twitter",
+            "username": "handle",
+            "url": "https://twitter.com/psuyash627"
+        },
+        {
+            "network": "Github",
+            "username": "handle",
+            "url": "https://github.com/Suyash13"
+        },
+        {
+            "network": "linkedin",
+            "username": "username",
+            "url": "https://www.linkedin.com/in/suyash-pandey-3b9a00206/"
+        },
+        {
+            "network": "Instagram",
+            "username": "handle",
+            "url": "https://www.instagram.com/suyash.__.pandey/"
+        }
+    ]
+},
+"education": [
+    {
+        "institution": "Indian Institute of Information technology,kota",
+        "area": "Engineering",
+        "studyType": "Bachelor of Technology",
+        "startDate": "07-12-2020",
+        "endDate": "May 2024",
+        "courses": [
+            "Electronics and Communication Engineering"
+        ]
+    }
+],
+
+"publications": [
+    {
+        "title": "My Resume",
+        "details": "This would take you to a website which contains my resume comprising of the first semester.",
+        "link": "https://suyash13.github.io/my-resume/"
+    }
+],
+"skills": [
+    {
+        "level": "Master",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Canva",
+            "C/C++"
+        ]
+    }
+],
+"interests": [
+    {
+        "name": "Sports",
+        "keywords": [
+            "Cricket",
+            "Football",
+            "Basketball",
+            "Badminton"
+        ]
+    }
+]}
