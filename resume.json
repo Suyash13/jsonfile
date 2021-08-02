@@ -17,22 +17,22 @@
     "profiles": [
         {
             "network": "Twitter",
-            "username": "handle",
+            "username": "psuyash627",
             "url": "https://twitter.com/psuyash627"
         },
         {
             "network": "Github",
-            "username": "handle",
+            "username": "Suyash13",
             "url": "https://github.com/Suyash13"
         },
         {
             "network": "linkedin",
-            "username": "username",
+            "username": "SUYASH PANDEY",
             "url": "https://www.linkedin.com/in/suyash-pandey-3b9a00206/"
         },
         {
             "network": "Instagram",
-            "username": "handle",
+            "username": "suyash.__.pandey",
             "url": "https://www.instagram.com/suyash.__.pandey/"
         }
     ]
@@ -64,8 +64,8 @@
             "HTML",
             "CSS",
             "Javascript",
-            "Canva",
-            "C/C++"
+            "C/C++",
+            "Canva"
         ]
     }
 ],
