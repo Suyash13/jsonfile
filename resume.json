@@ -55,6 +55,10 @@
         "title": "My Resume",
         "details": "This would take you to a website which contains my resume comprising of the first semester.",
         "link": "https://suyash13.github.io/my-resume/"
+        
+        "title": "Smart Street Light using Arduino Uno",
+        "details": "I had developed a smart street light using Arduino Uno which would automatically glow if the light is not sufficient and falls below a minimum value and simulated the project using the website 'Tinkercad'. I have also uploaded a tutorial video of it's functioning on YouTube.",
+        "link": "https://youtu.be/-WftY9EBfDI"
     }
 ],
 "skills": [
@@ -64,7 +68,9 @@
             "HTML",
             "CSS",
             "Javascript",
-            "C/C++",
+            "C",
+            "C++",
+            "Git",
             "Canva"
         ]
     }
